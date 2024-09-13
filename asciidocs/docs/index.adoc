@@ -1,4 +1,22 @@
-= Index page
+= 23/24 2ahitm sew - Lecture Notes
+Thomas W. Stütz
+1.0.0, 2023-09-22: Softwareentwicklung
 ifndef::imagesdir[:imagesdir: images]
+:icons: font
+:experimental:
+:sectnums:
+:toc:
+:toclevels: 5
+:experimental:
 
-image::img.png[]
+// https://mrhaki.blogspot.com/2014/06/awesome-asciidoc-use-link-attributes.html
+:linkattrs:
+
+ifdef::backend-html5[]
+// https://fontawesome.com/v4.7.0/icons/
+icon:file-text-o[link=https://github.com/2425-3ahitm-sew/2425-3ahitm-sew-lecture-notes/blob/main/asciidocs/{docname}.adoc] ‏ ‏ ‎
+icon:github-square[link=https://github.com/2425-3ahitm-sew/2425-3ahitm-sew-lecture-notes] ‏ ‏ ‎
+icon:home[link=http://edufs.edu.htl-leonding.ac.at/~t.stuetz/hugo/2021/01/lecture-notes/]
+endif::backend-html5[]
+
+== 2024-09-xx

@@ -1,4 +1,4 @@
-= 23/24 2ahitm sew - Lecture Notes
+= 24/25 - 3ahitm - sew - Lecture Notes
 Thomas W. Stütz
 1.0.0, 2023-09-22: Softwareentwicklung
 ifndef::imagesdir[:imagesdir: images]
